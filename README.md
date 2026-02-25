@@ -15,7 +15,7 @@ This project was built as part of my internship tasks.
 - Resume download  
 - Clean UI  
 
-## Screebshots
+## Screenshots
 <img width="1362" height="679" alt="home" src="https://github.com/user-attachments/assets/f4f2eb0f-002d-4458-b46a-f7b5e3555fc5" />
 <img width="1365" height="640" alt="about" src="https://github.com/user-attachments/assets/638ac8b7-f325-48d6-bd3f-dcaf2da7d737" />
 <img width="1365" height="643" alt="skills" src="https://github.com/user-attachments/assets/f3e7ac60-8f3e-4489-8d78-b2e749509201" />
